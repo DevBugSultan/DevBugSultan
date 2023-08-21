@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**DevBugSultan/DevBugSultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bug a Software Developer passionate about Flutter development and UI/UX design.
 
-Here are some ideas to get you started:
+- 🚀 Flutter Enthusiast
+- 🎨 UI/UX Designer
+- 👨‍💻 FrontEnd Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+- ✨ Creating stunning user interfaces using Flutter
+- 🌈 Designing intuitive user experiences
+- 🛠️ Building applications with a focus on performance
+- 🎨 I've designed so many mobile application called Krypta_pay, Continental_Trader, SwiftWave
+
+
+### Get in Touch
+
+- GitHub: [github.com/yourusername](https://github.com/DevBugSultan)
+- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
+- Email: okunugaadeniyi44@email.com
+
+Let's connect and collaborate on exciting projects! 🚀
+
