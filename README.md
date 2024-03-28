@@ -1,4 +1,4 @@
-# Hi there I'm Bug! 👋
+# Hi there I'm Dev.Bug! 👋
 
 I'm Bug a Software Developer passionate about Flutter development and UI/UX design.
 
@@ -29,9 +29,9 @@ When I'm not typing away at my keyboard, you can find me exploring the latest de
 
 ### Get in Touch
 
-- GitHub: [github.com/yourusername](https://github.com/DevBugSultan)
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
-- Email: okunugaadeniyi44@email.com
+- Twitter : [https://twitter.com/SulaymanOkunuga](https://twitter.com/SulaymanOkunuga)
+- LinkedIn: [https://www.linkedin.com/in/adeniyi-sulayman-okunuga](https://www.linkedin.com/in/adeniyi-sulayman-okunuga)
+- Email: okunugaadeniyi4@email.com
 
 Let's connect and collaborate on exciting projects! 🚀
 
