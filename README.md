@@ -1,11 +1,13 @@
 # Hey there, I'm Dev.Bug! 👋
 
-### 🚀 Mobile Engineer • Flutter Developer • Full-Stack Developer • UI/UX Enthusiast
+### 🚀 Full-Stack Developer • Flutter Engineer • Software Developer
 
-I’m a software developer passionate about building beautiful, high-performance mobile and web applications. I enjoy turning ideas into functional digital products, crafting intuitive user experiences, and solving real-world problems through technology.
+I'm a software developer passionate about building scalable web applications, cross-platform mobile apps, and reliable backend systems. I work across the entire development stack, from frontend applications to server-side APIs and database architecture.
+
+I'm currently building **Kori Connect**, a social media platform designed to connect people around the world through messaging, content sharing, audio comments, voice and video calls, and real-time communication.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Developer;React+%26+Next.js+Engineer;Node.js+%26+Backend+Developer;Building+Ideas+Into+Real+Products" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Flutter+%26+Dart+Engineer;React+%26+Next.js+Developer;Node.js+%26+MongoDB+Specialist;Building+Kori+Connect+%F0%9F%9A%80" alt="Animated developer introduction" />
 </p>
 
 <p align="center">
@@ -22,108 +24,121 @@ I’m a software developer passionate about building beautiful, high-performance
 
 ## 🧑‍💻 About Me
 
-- 📱 Specializing in cross-platform mobile development with **Flutter and Dart**.
-- 🌐 Building modern web applications using **React, Next.js, and Tailwind CSS**.
-- ⚙️ Developing REST APIs and backend systems with **Node.js and Express.js**.
-- 🗄️ Working with **MongoDB and PostgreSQL** to build reliable data-driven applications.
-- 🎨 Passionate about clean UI, intuitive UX, responsive layouts, and design systems.
-- 🔥 Interested in real-time communication, social platforms, fintech, and scalable applications.
-- 🤝 Open to collaborating with developers, designers, startups, and innovative teams.
+- 🚀 Full-stack developer building applications across frontend and backend.
+- 🌐 Developing modern web applications with React.js, Next.js, JavaScript, TypeScript, and Tailwind CSS.
+- ⚙️ Building server-side applications and REST APIs with Node.js and Express.js.
+- 🗄️ Working with MongoDB and PostgreSQL for data storage and management.
+- 📱 Developing cross-platform mobile applications using Flutter and Dart.
+- 💬 Exploring real-time messaging, WebSockets, audio communication, and video calling.
+- 🌍 Currently building **Kori Connect**, a social media platform for global communication and connection.
+- 🤝 Open to software development opportunities, technical collaborations, and exciting projects.
 
-> My goal is simple: build software that looks great, performs well, and solves meaningful problems.
+My focus is on building complete software products, from frontend functionality to backend infrastructure, database integration, and deployment.
 
 ## 🛠️ Tech Stack & Tools
 
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Flutter, Dart and Firebase" />
 </p>
 
-Flutter • Dart • Riverpod • Bloc • Provider • Firebase • REST APIs
+Flutter • Dart • Riverpod • Bloc • Provider • Firebase • REST API Integration
 
 ### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" alt="Frontend development technologies" />
 </p>
 
-React.js • Next.js • JavaScript • TypeScript • Tailwind CSS • Responsive Design
+React.js • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" alt="Backend and database technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
 </p>
 
-Node.js • Express.js • MongoDB • PostgreSQL • Firebase • API Integration • WebSockets
+Node.js • Express.js • RESTful APIs • Authentication • Middleware • WebSockets • Real-Time Communication
 
-### 🔧 Tools & Workflow
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="MongoDB and PostgreSQL" />
 </p>
 
-Git • GitHub • VS Code • Figma • Postman • Docker
+MongoDB • PostgreSQL • Data Modeling • Database Integration • CRUD Operations
+
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Development tools" />
+</p>
+
+Git • GitHub • VS Code • Postman • Docker • API Testing • Version Control
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some of the products and applications I've worked on across mobile, web, fintech, and social technology.
+### 🌍 Kori Connect — Currently Building
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💳 ZaraPay</h3>
-      A mobile payment application focused on transfers, airtime, bill payments, and other financial services.
-      <br/><br/>
-      <strong>Tech:</strong> Flutter, Dart, Riverpod, REST APIs
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌍 Kori Connect</h3>
-      A social platform concept focused on global connections, messaging, media sharing, and real-time communication.
-      <br/><br/>
-      <strong>Tech:</strong> React, Tailwind CSS, Tauri, Node.js
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎲 StakeCut</h3>
-      A gaming and social experience featuring real-time dice gameplay and live audio discussion rooms.
-      <br/><br/>
-      <strong>Tech:</strong> Flutter, Node.js, WebSockets, LiveKit
-      <br/><br/>
-      <a href="https://stakecut.site">Visit Website</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 Loora</h3>
-      A social application concept built around content sharing and connecting with other people.
-      <br/><br/>
-      <strong>Tech:</strong> Flutter, Node.js, REST APIs, PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 SwiftVista</h3>
-      A fintech product concept exploring digital payments, financial services, and convenient mobile experiences.
-      <br/><br/>
-      <strong>Tech:</strong> Flutter, React, Node.js, MongoDB
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛍️ Olive Pure</h3>
-      A consumer product brand with an online presence, focused on product presentation and e-commerce.
-      <br/><br/>
-      <strong>Tech:</strong> Web Development, UI/UX, E-commerce
-      <br/><br/>
-      <a href="https://olivepure.store">Visit Website</a>
-    </td>
-  </tr>
-</table>
+**A social media platform designed to connect people around the world.**
+
+Kori Connect aims to bring social networking and real-time communication together in one platform, with features such as:
+
+- 📰 Social feeds, posts, comments, and media sharing.
+- 💬 Private messaging and chat conversations.
+- 🎙️ Audio comments and voice communication.
+- 📹 Audio and video calling.
+- 🔔 Notifications and real-time interactions.
+- 🌎 A platform designed for a global audience.
+
+**Technology stack**
+
+React • Tailwind CSS • Node.js • Express.js • MongoDB • WebSockets • Flutter
+
+<p>
+  <a href="https://github.com/DevBugSultan?tab=repositories">
+    <img src="https://img.shields.io/badge/Follow%20My%20Work-Kori%20Connect-6C63FF?style=for-the-badge&logo=github" alt="Follow Kori Connect development" />
+  </a>
+</p>
+
+### 💳 ZaraPay
+
+A mobile payment application focused on transfers, airtime, bill payments, and other financial services.
+
+**Tech:** Flutter • Dart • Riverpod • REST APIs
+
+### 🎲 StakeCut
+
+A gaming and social platform featuring real-time dice gameplay and live audio discussion rooms.
+
+**Tech:** Flutter • Node.js • WebSockets • LiveKit
+
+<a href="https://stakecut.site">Visit StakeCut</a>
+
+### 💬 Loora
+
+A social application focused on content sharing, communication, and connecting people.
+
+**Tech:** Flutter • Node.js • REST APIs • Database Integration
+
+### 💰 SwiftVista
+
+A fintech product focused on digital payments and convenient financial services.
+
+**Tech:** Flutter • React • Node.js • MongoDB
+
+### 🛍️ Olive Pure
+
+An online product business with a web presence and e-commerce functionality.
+
+<a href="https://olivepure.store">Visit Olive Pure</a>
 
 <p align="center">
   <a href="https://github.com/DevBugSultan?tab=repositories">
-    <img src="https://img.shields.io/badge/More%20Projects-Explore%20GitHub-6C63FF?style=for-the-badge&logo=github" alt="More projects" />
+    <img src="https://img.shields.io/badge/Discover-More%20Projects-181717?style=for-the-badge&logo=github" alt="Discover more projects" />
   </a>
 </p>
 
@@ -140,46 +155,29 @@ Here are some of the products and applications I've worked on across mobile, web
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevBugSultan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 🐍 My Contribution Journey
+## 📈 My Contribution Journey
 
 <p align="center">
   <img src="https://ghchart.rshah.org/6C63FF/DevBugSultan" alt="DevBug's GitHub contribution graph" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/DevBugSultan">
-    <img src="https://img.shields.io/badge/View%20My%20Contributions-GitHub-6C63FF?style=for-the-badge&logo=github" alt="View GitHub contributions" />
-  </a>
-</p>
+---
+
+## 🎯 What I'm Focused On
+
+- 🌍 Building and expanding Kori Connect's social networking capabilities.
+- ⚙️ Developing scalable Node.js and Express.js backend services.
+- 🗄️ Designing efficient MongoDB schemas and database operations.
+- 🔌 Implementing APIs, authentication, and real-time communication.
+- 📱 Developing high-performance Flutter applications.
+- 🌐 Building responsive, functional web applications with React and Next.js.
+- 🚀 Improving application security, reliability, and performance.
 
 ---
 
-## 💡 What I Enjoy Building
+## 🤝 Let's Connect
 
-| Area | What interests me |
-|---|---|
-| 📱 Mobile Apps | Cross-platform apps with Flutter and smooth animations |
-| 💳 Fintech | Digital payments, transactions, and financial products |
-| 🌐 Social Platforms | Messaging, feeds, media sharing, and real-time features |
-| 🎨 UI/UX Design | Beautiful interfaces and seamless user experiences |
-| ⚡ Backend Systems | Secure APIs, scalable services, and database architecture |
-| 🖥️ Desktop Apps | Cross-platform applications using modern web technologies |
-
----
-
-## 🎯 Currently Focused On
-
-- 🚀 Improving application architecture and software performance.
-- 🔌 Building robust APIs and real-time communication features.
-- 🎨 Creating polished interfaces across mobile, web, and desktop.
-- 🧠 Learning new tools and exploring better engineering practices.
-- 🤝 Collaborating on products that make a meaningful difference.
-
----
-
-## 🤝 Let's Connect!
-
-I'm always interested in meeting fellow developers, exchanging ideas, and collaborating on exciting projects.
+I'm always happy to connect with other developers, exchange technical ideas, and collaborate on software projects.
 
 <p align="center">
   <a href="https://github.com/DevBugSultan">
@@ -197,7 +195,7 @@ I'm always interested in meeting fellow developers, exchanging ideas, and collab
 </p>
 
 <p align="center">
-  <i>"Great software is built where creativity meets engineering."</i>
+  <strong>Building full-stack applications. Developing real-world solutions. Connecting people through technology.</strong>
   <br/><br/>
-  ⭐ If you find my work interesting, explore my repositories and let's build something amazing!
+  ⭐ Explore my repositories and follow my journey as I build Kori Connect!
 </p>
