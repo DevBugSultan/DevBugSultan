@@ -140,10 +140,16 @@ Here are some of the products and applications I've worked on across mobile, web
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevBugSultan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-### 🐍 My Contribution Journey
+## 🐍 My Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevBugSultan/DevBugSultan/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+  <img src="https://ghchart.rshah.org/6C63FF/DevBugSultan" alt="DevBug's GitHub contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DevBugSultan">
+    <img src="https://img.shields.io/badge/View%20My%20Contributions-GitHub-6C63FF?style=for-the-badge&logo=github" alt="View GitHub contributions" />
+  </a>
 </p>
 
 ---
